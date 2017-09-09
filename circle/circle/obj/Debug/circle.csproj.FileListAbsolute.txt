@@ -1,0 +1,15 @@
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\bin\Debug\circle.exe.config
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\bin\Debug\circle.exe
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\bin\Debug\circle.pdb
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\obj\Debug\circle.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\obj\Debug\circle.Form1.resources
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\obj\Debug\circle.Properties.Resources.resources
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\obj\Debug\circle.csproj.GenerateResource.Cache
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\obj\Debug\circle.exe
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\obj\Debug\circle.pdb
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\bin\Debug\YandexGeocoder.dll
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\bin\Debug\GMap.NET.Core.dll
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\bin\Debug\GMap.NET.Core.xml
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\Алексей\Documents\Visual Studio 2015\Projects\circle\circle\obj\Debug\circle.Maps.resources
